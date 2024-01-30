@@ -23,6 +23,5 @@
 
 </div><br/><br/><br/>
 
-Atualmente estou estudando Análise e Desenvolvimento de Sistemas e pretendo me aprimoriar em mais linguagens :)
 
 
