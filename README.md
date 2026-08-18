@@ -1,5 +1,3 @@
-Claro — eu deixaria mais moderno e focado em **AI Engineering / Generative AI**, sem listar tecnologias web que já não representam tanto seu foco atual.
-
 ### Seja bem-vindo ao meu Git 👋🤖
 
 Sou **AI Engineer e Data Scientist**, com foco no desenvolvimento de soluções de **Inteligência Artificial, IA Generativa e sistemas baseados em agentes**.
@@ -79,15 +77,6 @@ Meu trabalho envolve transformar problemas de negócio em soluções inteligente
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-![Isaac GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacisl\&show_icons=true\&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacisl\&layout=compact\&theme=dracula)
-
----
 
 ### 🚀 Atualmente estudando
 
